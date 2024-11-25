@@ -79,6 +79,10 @@ Compatível com os navegadores:
 - Firefox  
 - Safari  
 
+## Links
+
+- **URL da aplicação em produção**: [https://aplicativo-de-tarefas.netlify.app/](https://aplicativo-de-tarefas.netlify.app/)
+
 ## 📜 Licença  
 
 Este projeto é privado. Consulte o autor para mais informações.
