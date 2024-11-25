@@ -1,6 +1,6 @@
 # TaskApp  
 
-Uma aplicação React para gerenciamento de tarefas, permitindo organizar, criar e acompanhar atividades de forma eficiente.  
+Uma aplicação React para gerenciamento de tarefas, permitindo organizar, criar e acompanhar atividades de forma eficiente. Este projeto foi criado como parte do curso [**React Js do Zero ao Avançado na Prática**](https://www.udemy.com/share/101ybQ3@JR3RMe9rdQEKcNAasfH409QnfyZimGA3tzLNT0d-fwR5yH7000y5fc8O0BjwlklA/) na plataforma **Udemy**, com o objetivo de aprender e praticar os conceitos de React.
 
 ## 🚀 Tecnologias  
 
