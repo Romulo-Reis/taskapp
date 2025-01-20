@@ -86,3 +86,7 @@ Compatível com os navegadores:
 ## 📜 Licença  
 
 Este projeto é privado. Consulte o autor para mais informações.
+
+---
+
+Desenvolvido por [Rômulo Reis Tavares](https://github.com/Romulo-Reis).
